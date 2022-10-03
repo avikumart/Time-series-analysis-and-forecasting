@@ -11,7 +11,7 @@ Project 2: stock-price-analysis-and-forecasting - In this project I have analyse
 # Stock price analysis and forecasting
 
 ## Background
-Time series forecasting is parhaps one of the most common type of machine learning techniques used in real-world scenarios. `time-sereis forecsting refers to predicting future values from historical data by statical analysis of trends and patterns from certain time-series data.` it falls under unsupervised learning category but called as a self-supervised learning or supervised learning technique. time-series data can be much complex to find patterns out of it, this is because irregular component of time series. time-series data is widely used and analysed in finance industry to measure the performace of stocks. this noteboook consists of stock price analysis and forecasting models that are can be leveraged in stock price analysis and forecasting.
+Time series forecasting is parhaps one of the most common type of machine learning techniques used in real-world scenarios. `time-series forecsting refers to predicting future values from historical data by statical analysis of trends and patterns from certain time-series data.` it falls under unsupervised learning category but called as a self-supervised learning or supervised learning technique. time-series data can be much complex to find patterns out of it, this is because irregular component of time series. time-series data is widely used and analysed in finance industry to measure the performace of stocks. this noteboook consists of stock price analysis and forecasting models that are can be leveraged in stock price analysis and forecasting.
 
 ## Objectives and tasks
 - Prepare S%P 500 stocks data to find TOP 10 most traded stocks
